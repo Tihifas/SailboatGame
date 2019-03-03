@@ -1,0 +1,62 @@
+Mono path[0] = 'C:/Users/Torstein/Dropbox/Unity/Sailboaty McBoatface/SMcB_Data/Managed'
+Mono path[1] = 'C:/Users/Torstein/Dropbox/Unity/Sailboaty McBoatface/SMcB_Data/Mono'
+Mono config path = 'C:/Users/Torstein/Dropbox/Unity/Sailboaty McBoatface/SMcB_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Torstein/Dropbox/Unity/Sailboaty McBoatface/SMcB_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55264
+Multi-casting "[IP] 192.168.1.107 [Port] 55264 [Flags] 2 [Guid] 758920528 [EditorId] 972133358 [Version] 1048832 [Id] WindowsPlayer(Torstein-PC) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55264]
+PlayerConnection already initialized - listening to [0.0.0.0:55264]
+Player data archive not found at `C:/Users/Torstein/Dropbox/Unity/Sailboaty McBoatface/SMcB_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\KdTreeLib.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\KdTreeLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\Poly2Tri.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\Poly2Tri.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SMcB_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.214741 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4e6c -> priority: 1 
+  Thread -> id: 38d8 -> priority: 1 
+UnloadTime: 0.223084 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 503.
+Total: 4.242839 ms (FindLiveObjects: 0.036526 ms CreateObjectMapping: 0.019621 ms MarkObjects: 4.171597 ms  DeleteObjects: 0.012980 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.348664 ms
+System memory in use before: 19.1 MB.
+System memory in use after: 19.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1012.
+Total: 0.533109 ms (FindLiveObjects: 0.053129 ms CreateObjectMapping: 0.021131 ms MarkObjects: 0.393039 ms  DeleteObjects: 0.064299 ms)
+

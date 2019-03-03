@@ -1,0 +1,37 @@
+Initialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 3400 Series (ID=0x95c4)
+    Vendor:   ATI
+    VRAM:     1146 MB
+    Driver:   8.970.100.9001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.253 seconds
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Torstein\Dropbox\Unity\Sailboaty McBoatface\SailboatyMcBoatface11_UI4_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.661432 ms
+C:/Users/Torstein/AppData/LocalLow/TihiInc_/Sailboaty McBoatface
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 15dc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 158.992981 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 2.618402 ms (FindLiveObjects: 0.096644 ms CreateObjectMapping: 0.034583 ms MarkObjects: 2.318994 ms  DeleteObjects: 0.157757 ms)
+

@@ -1,0 +1,78 @@
+﻿Notes
+
+I have igrated to onenote
+
+What I did when I stopped:
+When changing tile: Why is multiple baots spawned and script of old boet keeps running for a bit, but destroyimmidietely is bad
+
+Make rock with probuilder. https://www.youtube.com/watch?v=PUSOg5YEflM
+
+
+Working on go to main menu
+Trying to make escape menu work. Add dontdesteyonload to canvas again!
+Tried to make saving to file work. Gave up on that for now
+
+Goal = hole, fall through to next level. (iterator would need to be 3D). Menu with holes so you fall to what you choose. Boat follows mouse cursor? 
+
+Make version of game controller that starts at level n, so you can choose starting level from menu
+Continue button starts from reached level?
+
+All text verdana?
+
+    
+    LEVELS
+    Spiral
+    Hilbert curve etc.
+
+
+    MECHANICS
+    Sail visuals
+
+    Attached to spring
+    Whirlpool
+    Flowing water
+	Powerups?
+
+	Make guides on how to make new level
+	"copy level -1, make Islands.."
+
+	Menu with arrow keys
+
+	Do sail with dot product of vectors?
+
+	Just for testing
+	Setup Scene camera with dont destroy
+
+	Box that destroys everuthing that leaves it for logs and wind
+
+	Fan, with other wind. As box and choose fan or background
+
+	Control sail on other thing than boat
+
+	camera child of boat or sail. Use fixed rotation script?
+
+	Control 2 boats
+
+	Windmills
+
+	Closed door, find poseidons trifork etc. Whirlpool behind door, Atlantis
+
+	
+
+
+	BUGS
+	When low resulution menu overflows
+	Border of screen is not always death zone
+
+	THings that should be changed
+	I am setting resultion in GameController
+	All the load scene stuff activate tile camera should be changed
+	Change boat tag to boat instead of player
+
+	Issues
+	Can't find package manager under window, so cant install correct probuilder version
+
+	POTENTIAL PERFORMANCE ISSUES
+	Probuilder things
+	GoToNeighbor detecting wind particles
+	When restarting dont load entire scene

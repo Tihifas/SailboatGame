@@ -12,41 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/MMBackground.unity
     guid: 1dc647d6fb8cda140a83f6a7f9808d03
   - enabled: 1
-    path: Assets/Scenes/Ocean 1.unity
-    guid: ec7568191258c6e47a886d38852ebb68
-  - enabled: 0
-    path: Assets/Scenes/First_Level.unity
-    guid: 48dd8a6d5c071ad408390b342a719a79
-  - enabled: 0
-    path: Assets/Scenes/First_Islands.unity
-    guid: ef1d4317b7373654fb2294be1db85bbf
-  - enabled: 0
-    path: Assets/Scenes/First Rock.unity
-    guid: 8ded556e4f3082e44990fc1913d9cc14
-  - enabled: 0
-    path: Assets/Scenes/Moving Logs.unity
-    guid: 3c2923310590acb4ca690d07a5f3dbec
-  - enabled: 0
-    path: Assets/Scenes/Side_Wind.unity
-    guid: 51282b2b05e696549a24841d4d9d2606
-  - enabled: 0
-    path: Assets/Scenes/Side_Wind_First_Islands.unity
-    guid: abea5c616de8490478a63e175314b952
-  - enabled: 0
-    path: Assets/Scenes/Headwind.unity
-    guid: 81ed3fb1f4763fc439478c51dea07ea8
-  - enabled: 0
-    path: Assets/Scenes/Headwind_Holed_Wall.unity
-    guid: 087fa7821bccf0343a3cde29f9ada516
-  - enabled: 0
-    path: Assets/Scenes/Tunnel.unity
-    guid: 27d1401f98fda1647a568be1f9245bc7
-  - enabled: 0
-    path: Assets/Scenes/Spiral.unity
-    guid: 4991c2d9f475cec478985697a084cd97
-  - enabled: 0
-    path: Assets/Scenes/Holed_Wall.unity
-    guid: 6cb028760fccb86498b363e565af4b43
+    path: Assets/Scenes/World 1.unity
+    guid: 5108e4eb898e1e64fa9f93361ddab789
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
